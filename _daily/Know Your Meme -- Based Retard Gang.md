@@ -7,8 +7,6 @@ tags: BRG culture
 
 # Know Your Meme **—** Based Retard Gang
 
-[Know Your Meme](https://knowyourmeme.com/memes/sites/based-retard-gang)
-
 ## About
 
 **Based Retard Gang**, also known as **𝔅ℜ𝔊**, is an [Instagram](https://www.instagram.com/basedretardgang/) and [TikTok](https://www.tiktok.com/@basedredactedgang) page that posts videos using e-girl[^1] symbolism to make girlboss[^2] adjacent affirmation content. Additionally, the social media page's name combines the slang term "based"[^3] and the controversial term "retard"[^4] The hashtags #basedretardgang and #BRG were also spread by the page. Based Retard Gang Instagram Reels and TikTok videos went viral in mid-2023, spreading through reposts across platforms.
@@ -23,6 +21,10 @@ On July 6th, 2022, Based Retard Gang posted its first song to [Soundcloud](http
 
 Based Retard Gang didn't go viral until May 4th, 2023, when it posted a Reel to [Instagram](https://www.instagram.com/p/Cr1UQSfrcGk/) that received roughly 4,900 likes in two months (shown below, left). Thereafter, the account's Reels gained more engagement, such as a Reel post to [Instagram](https://www.instagram.com/p/CtPjsXyM4_W/) on June 8th, 2023, that received roughly 36,800 likes in one month.
 
+## Following
+
+By July 25th, 2023, Based Retard Gang had amassed roughly 31,000 followers on [Instagram](https://www.instagram.com/basedretardgang/) and roughly 17,700 followers on [TikTok](https://www.tiktok.com/@basedredactedgang).
+
 [^1]: **E-girl** or **E-boy**, also spelled **Egirl** and **Eboy**, is [internet slang](https://knowyourmeme.com/memes/internet-slang) that combines the words "electronic" with "girl" or "boy." Generally, the label represents people who have a [large presence online](https://knowyourmeme.com/memes/social-media-influencer) and tote a specific style influenced by [skate](https://knowyourmeme.com/memes/cultures/skateboarding) culture, [goth](https://knowyourmeme.com/memes/subcultures/goth), [KPOP](https://knowyourmeme.com/memes/cultures/k-pop) and [cosplay](https://knowyourmeme.com/memes/subcultures/cosplay), among others.
 
 [^2]: **Girlboss** is a term used both ironically and unironically online by males and females in [Hustle Culture](https://knowyourmeme.com/memes/cultures/sigma-grindset-hustle-culture-memes). The term, coined by Sophia Amoruso, has been seen by some as a proto-example of [Sigma](https://knowyourmeme.com/memes/sigma-males), with a lot of the same platitudes that apply to sigma males being used to describe Girlbosses years prior.
@@ -30,3 +32,5 @@ Based Retard Gang didn't go viral until May 4th, 2023, when it posted a Reel to 
 [^3]: **Based** is a [slang](https://knowyourmeme.com/memes/internet-slang) term that conveys many different meanings depending on the context. Based typically means something that is "agreeable" and "cool," but it can also be used to mean something is considered anti-[woke](https://knowyourmeme.com/memes/woke). Often used as part of the wider [catchphrase](https://knowyourmeme.com/memes/catchphrases) [Based and Redpilled](https://knowyourmeme.com/memes/based-and-redpilled), the word started to become used as a standalone term, further greying the core meaning and making it rely on the surrounding context of where it's placed.
 
 [^4]: **"Retard"** is a slang term for someone who is born with mental retardation, also known as intellectual disability or mental handicap, a condition marked by impaired cognition and functional skill. The term's use as an insult is considered an example of the "euphemism treadmill," [[3]](https://knowyourmeme.com/memes/retard#fn3) a linguistic process which results in any labels used for the condition eventually turning into a pejorative. Some have argued the term is politically incorrect and ableist, resulting in many online debates over whether it is appropriate to use.
+
+[Know Your Meme](https://knowyourmeme.com/memes/sites/based-retard-gang)
