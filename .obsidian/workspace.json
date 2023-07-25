@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "_articles/Using your Exocore.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
+                "file": "_articles/Using your Exocore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
+                "file": "_articles/Using your Exocore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ring.md"
+                "file": "_articles/Using your Exocore.md"
               }
             }
           },
@@ -164,20 +164,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5d8b4d2de88284b",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "ring.md",
+    "_journal/The Exocore Workflow.md",
+    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+    "_journal/Notes on Remilia's New Internet.md",
+    "_journal/Jade post.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_articles/Writing with Exocore Syntax.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Underpinnings of the Exocore.md",
+    "_articles/The Exocore Package.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/Exocore Installation Instructions.md",
     "_articles/Configure Exocore for Personal Use.md",
+    "ring.md",
     "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
     "_daily/2022-05-11.md",
     "readme.md",
     "images/worldcoin.png.crdownload",
-    "_journal/Jade post.md",
-    "_journal/The Exocore Workflow.md",
-    "_journal/Notes on Remilia's New Internet.md",
-    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_articles/Underpinnings of the Exocore.md",
     "index.md",
     "images/worldcoin.png",
     "assets/favicon/default",
@@ -191,11 +196,6 @@
     "assets/favicon/favicon.ico",
     "images/w.png",
     "assets/favicon/default favicon",
-    "_articles/Writing with Exocore Syntax.md",
-    "_articles/Using your Exocore.md",
-    "_articles/Set up a Custom Domain.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/The Exocore Package.md",
     "images/Worldcoin.png",
     "assets/imgs/pfp.png",
     "assets/pfp.png",
