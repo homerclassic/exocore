@@ -16,3 +16,5 @@ The company behind Worldcoin is San Francisco and Berlin-based Tools for Humanit
 The project has 2 million users from its beta period, and with Monday's launch, Worldcoin is scaling up "orbing" operations to 35 cities in 20 countries. As an enticement, those who sign up in certain countries will receive Worldcoin's cryptocurrency token WLD.
 
 ![worldcoin](/images/worldcoin.png)
+
+[Reuters](https://www.reuters.com/technology/openais-sam-altman-launches-worldcoin-crypto-project-2023-07-24/)
