@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Homer
+title: HomerTest
 description: 
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+url: https://homer.reisen/
+repository: homerclassic/exocore
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
