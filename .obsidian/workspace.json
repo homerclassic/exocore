@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2022-05-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2022-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "_daily/2022-05-11.md"
               }
             }
           },
@@ -166,17 +166,18 @@
   },
   "active": "f70665bd77e71876",
   "lastOpenFiles": [
+    "_daily/2023-07-24.md",
+    "_daily/2022-05-11.md",
+    "readme.md",
     "images/worldcoin.png.crdownload",
     "_journal/Jade post.md",
     "_journal/The Exocore Workflow.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "readme.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Underpinnings of the Exocore.md",
     "index.md",
-    "_daily/2022-05-11.md",
     "images/worldcoin.png",
     "assets/favicon/default",
     "assets/favicon/New folder",
@@ -191,7 +192,6 @@
     "assets/favicon/default favicon",
     "_articles/Writing with Exocore Syntax.md",
     "_articles/Using your Exocore.md",
-    "_daily/2023-07-24.md",
     "_articles/Set up a Custom Domain.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/The Exocore Package.md",
