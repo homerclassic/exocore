@@ -11,7 +11,7 @@ tags: BRG culture
 
 ## About
 
-**Based Retard Gang**, also known as **basedretardgang** or **basedredactedgang**, is an [Instagram](https://www.instagram.com/basedretardgang/) and [TikTok](https://www.tiktok.com/@basedredactedgang) page that posts videos using e-girl[^1] symbolism to make girlboss[^2] adjacent affirmation content. Additionally, the social media page's name combines the slang term "based"[^3] and the controversial term "retard"[^4] The hashtags #basedretardgang and #BRG were also spread by the page. Based Retard Gang Instagram Reels and TikTok videos went viral in mid-2023, spreading through reposts across platforms.
+**Based Retard Gang**, also known as **𝔅ℜ𝔊**, is an [Instagram](https://www.instagram.com/basedretardgang/) and [TikTok](https://www.tiktok.com/@basedredactedgang) page that posts videos using e-girl[^1] symbolism to make girlboss[^2] adjacent affirmation content. Additionally, the social media page's name combines the slang term "based"[^3] and the controversial term "retard"[^4] The hashtags #basedretardgang and #BRG were also spread by the page. Based Retard Gang Instagram Reels and TikTok videos went viral in mid-2023, spreading through reposts across platforms.
 
 ## Online History
 
