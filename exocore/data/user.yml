@@ -26,8 +26,8 @@ welcome_subtitle: A navigable, organised hypertext personal knowledge base
 include_license: true 
 
 # Change the glyph used for the 'next/previous' buttons at the top of each post
-next_button: ">>"
-prev_button: "<<"
+next_button: "→"
+prev_button: "←"
 
 #   ←  →      = Unicode arrows
 #   <<  >>    = Double chevrons
