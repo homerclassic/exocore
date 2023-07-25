@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-07-25.md",
-                "mode": "source",
+                "file": "_daily/Know Your Meme -- Based Retard Gang.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-07-25.md",
+                "file": "_daily/Know Your Meme -- Based Retard Gang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-07-25.md",
+                "file": "_daily/Know Your Meme -- Based Retard Gang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-07-25.md"
+                "file": "_daily/Know Your Meme -- Based Retard Gang.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +166,10 @@
   },
   "active": "a5d8b4d2de88284b",
   "lastOpenFiles": [
-    "_daily/2023-07-25.md",
+    "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
+    "_daily/Know Your Meme -- Based Retard Gang.md",
+    "images/BRG.png",
+    "images/BRG.png.crdownload",
     "Untitled.canvas",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_articles/Using your Exocore.md",
@@ -181,7 +185,6 @@
     "_articles/Exocore Installation Instructions.md",
     "_articles/Configure Exocore for Personal Use.md",
     "ring.md",
-    "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
     "_daily/2022-05-11.md",
     "readme.md",
     "images/worldcoin.png.crdownload",
@@ -200,7 +203,6 @@
     "assets/favicon/default favicon",
     "images/Worldcoin.png",
     "assets/imgs/pfp.png",
-    "assets/pfp.png",
     "assets/pfp.png.crdownload",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
