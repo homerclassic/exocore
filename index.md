@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Test
+title: Homer
 ---
 
 [See latest posts →](https://homer.reisen/pages/latest)

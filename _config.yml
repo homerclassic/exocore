@@ -2,7 +2,7 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: HomerTest
+title:
 description: Coverage of news, culture, art, and more, through articles, journals, and daily notes.
 url: https://homer.reisen/
 repository: homerclassic/exocore
