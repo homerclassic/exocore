@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
-                "mode": "preview",
+                "file": "ring.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md"
+                "file": "ring.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "f70665bd77e71876",
   "lastOpenFiles": [
+    "_articles/Configure Exocore for Personal Use.md",
     "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
     "_daily/2022-05-11.md",
     "readme.md",
@@ -175,7 +176,6 @@
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_articles/Underpinnings of the Exocore.md",
     "index.md",
     "images/worldcoin.png",
