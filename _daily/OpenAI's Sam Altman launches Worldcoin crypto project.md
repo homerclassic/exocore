@@ -2,7 +2,7 @@
 published: true
 subtitle: 
 date: 2023-07-24
-tags: crypto
+tags: crypto AI
 ---
 
 # OpenAI's Sam Altman launches Worldcoin crypto project
