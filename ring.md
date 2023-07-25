@@ -3,7 +3,7 @@ layout: ring
 title: Webring
 ---
 
-| [Edith Reisen](http://reisen.netlify.app/)               | Para-academic knowledge repository and power hikikomori optimization manual |
+| [Edith Reisen](https://edith.reisen/)                    | Para-academic knowledge repository and power hikikomori optimization manual |
 | -------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Charlotte Fang](https://goldenlight.mirror.xyz/)        | Remilia CEO                                                                 |
 | [Sonora Sprite](https://spritecore.netlify.app/)         | Remilia Creative Director and Artist                                        |
