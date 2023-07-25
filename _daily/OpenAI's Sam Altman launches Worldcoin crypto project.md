@@ -1,11 +1,11 @@
 ---
 published: true
-subtitle: OpenAI's Sam Altman launches Worldcoin crypto project
+subtitle: 
 date: 2023-07-24
 tags: crypto
 ---
 
-# 2023-07-24
+# OpenAI's Sam Altman launches Worldcoin crypto project
 
 **Worldcoin**, a cryptocurrency project founded by OpenAI CEO Sam Altman, launched on Monday.
 
