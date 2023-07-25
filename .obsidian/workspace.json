@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
-                "mode": "source",
+                "file": "_articles/Configure Exocore for Personal Use.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md"
+                "file": "_articles/Configure Exocore for Personal Use.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "f70665bd77e71876",
   "lastOpenFiles": [
-    "_daily/2022-05-11.md",
     "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
+    "_daily/2022-05-11.md",
     "readme.md",
     "images/worldcoin.png.crdownload",
     "_journal/Jade post.md",

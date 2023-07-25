@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title:
 ---
 
 [Twitter](https://twitter.com/HomerClassic)
