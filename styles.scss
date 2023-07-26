@@ -28,9 +28,9 @@
 Uncomment one of the below lines to override the background color/image of your chosen theme. 'theme' will leave the default theme background. */
 
 
-$bg-color: theme; /* <-- leave default theme BG color */
+//$bg-color: theme; /* <-- leave default theme BG color */
 
-$bg-image: theme; /* <-- leave default theme BG image */
+//$bg-image: theme; /* <-- leave default theme BG image */
 
 
 //$bg-image: url(assets/imgs/BGs/bgtile-1.png);
@@ -40,6 +40,8 @@ $bg-image: theme; /* <-- leave default theme BG image */
 //$bg-image: url(assets/imgs/BGs/bgtile-3.png);
 
 //$bg-image: url(assets/imgs/BGs/bgtile-4.png);
+
+$bg-color: url(assets/imgs/BGs/Burichan.png);
 
 $bg-image: url(assets/imgs/BGs/BGtile-5.png);
 
