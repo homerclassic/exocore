@@ -41,7 +41,7 @@ $bg-image: theme; /* <-- leave default theme BG image */
 
 //$bg-image: url(assets/imgs/BGs/bgtile-4.png);
 
-$bg-image: url(assets/imgs/BGs/Fortune.png);
+//$bg-image: url(assets/imgs/BGs/Fortune.png);
 
 /*There are 30 sample background tiles to choose from in assets > imgs > BGs*/
 
@@ -51,6 +51,8 @@ $bg-image: url(assets/imgs/BGs/Fortune.png);
 body {
     
     background-color: $bg-color;
+	
+//  background-color: $bg-image;
     
     background-image: linear-gradient(#d9f0d6, #f4ffee, #f4ffee, white, white);
 	
