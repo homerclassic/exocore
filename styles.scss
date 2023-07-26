@@ -52,6 +52,8 @@ body {
     
     background-color: $bg-color;
     
-    background-image: $bg-image;
+    background-image: linear-gradient(#d9f0d6, #f4ffee, #f4ffee, white, white);
+	
+	background-attachment: fixed;
 }
 
