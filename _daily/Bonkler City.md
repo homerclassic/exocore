@@ -1,6 +1,6 @@
 ---
 published: true
-subtitle: Collected writings on Bonkler City
+subtitle:
 date: 2023-07-27
 tags: Miladycraft Bonkler Milady
 ---
