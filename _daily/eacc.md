@@ -2,7 +2,7 @@
 published: true
 subtitle: 
 date: 2023-07-28
-tags: AI acc
+tags: AI acc charlotte
 ---
 
 # e/acc
