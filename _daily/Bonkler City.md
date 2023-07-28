@@ -25,14 +25,6 @@ government funded. 10000 years prosperity lucky 38. ultra magnificent eternal ma
 
 purb point halo. hat shop. cat cafe. remilia flower shop
 
-meowing in Bonkler City rn
-
-BONKLER CITY IS SO BEAUTIFUL
-
-Bonkler City, Milady Village, Remilio Ghetto, YAYO Business District
-
-Bunkler City Ratio. Bunkler City Maglev Trains. Bunkler City 3km Sewer System.
-
 Being in Bonkler City makes me feel the same way I did the first time I really got to see a big city
 
 Will you visit Bonkler City one day
