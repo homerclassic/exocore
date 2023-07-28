@@ -11,8 +11,6 @@ Bonkler City is 3000 Years ahead of the North
 
 Bonkler City is Miladycraft's Dubai
 
-Bonkler City is sacred
-
 Bonkler City is the premiere spot for Serious Miladycraft Builders, Thinkers, and Philosophers. 
 
 The only way to Bonkler City is by believing in yourself and staying true. 
