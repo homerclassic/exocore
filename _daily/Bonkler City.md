@@ -9,6 +9,8 @@ tags: Miladycraft Bonkler Milady
 
 Bonkler City is 3000 Years ahead of the North
 
+Bonkler City The Ten Thousand Year Great Expansion Five Guys Burger and Fries One McDonalds Floating Highway
+
 Will you visit Bonkler City one day
 
 Bonkler City needs slave labour
@@ -36,6 +38,8 @@ I <3 Bonkler City
 God Bless Bonkler City!
 
 Bonkler City is sacred
+
+government funded Bonkler City. 10000 years prosperity lucky 38. ultra magnificent eternal mayor um. purb point halo. hat shop. cat cafe. remilia flower shop
 
 im a member of the Bonkler City Council
 
