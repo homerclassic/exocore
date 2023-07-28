@@ -17,11 +17,11 @@ The only way to Bonkler City is by believing in yourself and staying true.
 
 The only way to Bonkler City is by closing your eyes and affirming that everything will be alright in the end.
 
-No bad West Practice Bonkler City. Eastern Family value Location
+No bad West Practice. Eastern Family value Location
 
-Bonkler City The Ten Thousand Year Great Expansion Five Guys Burger and Fries One McDonalds Floating Highway
+The Ten Thousand Year Great Expansion Five Guys Burger and Fries One McDonalds Floating Highway
 
-government funded Bonkler City. 10000 years prosperity lucky 38. ultra magnificent eternal mayor um. purb point halo. hat shop. cat cafe. remilia flower shop
+government funded. 10000 years prosperity lucky 38. ultra magnificent eternal mayor um. purb point halo. hat shop. cat cafe. remilia flower shop
 
 meowing in Bonkler City rn
 
