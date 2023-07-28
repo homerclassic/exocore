@@ -31,10 +31,6 @@ Bonkler City, Milady Village, Remilio Ghetto, YAYO Business District
 
 Bunkler City Ratio. Bunkler City Maglev Trains. Bunkler City 3km Sewer System.
 
-im a member of the Bonkler City Council
-
-Bonkler City 100 Year good Forutne
-
 Being in Bonkler City makes me feel the same way I did the first time I really got to see a big city
 
 Will you visit Bonkler City one day
