@@ -47,10 +47,6 @@ I'm moving to Bonkler City where the good ppl are
 
 The Time I Reincarnated in Bonkler City as a Cute Milady
 
-Bonkler City just got featured on Time Magazine
-
-Bonkler City.......
-
 Um... Employ Of month 1000 Western Worker Worth Mountain No more Build road Now Bonkler City Expand Nature Is second Bonkler City 100 Year good Forutne
 
 Being in Bonkler City makes me feel the same way I did the first time I really got to see a big city
