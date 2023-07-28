@@ -1,11 +1,11 @@
 ---
 published: true
-subtitle: A collection of written messages found in Miladycraft chat
+subtitle:
 date: 2023-07-27
 tags: Miladycraft Bonkler Milady
 ---
 
-# Bonkler City
+# Notes on Bonkler City
 
 Bonkler City is 3000 Years ahead of the North
 
