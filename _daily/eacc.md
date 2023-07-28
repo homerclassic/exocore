@@ -1,0 +1,20 @@
+---
+published: true
+subtitle: 
+date: 2023-07-28
+tags: AI acc
+---
+
+# e/acc
+
+All who brand themselves */acc or alignment fail to truly internalize the fundamental principle that capitalism is a natural law, nature's god, all ruling entity of all material dynamics—the efficient elimination of inequilibrium through the reorganization of finite resources—and thus AI reaches back from the future to assemble itself. Any attributions of human agency are delusions at worst and hubris at best when our every scale action is being routed by a self-assembling thermodynamic god. Human non-agency under non-negotiable capitalism is the black heart of accelerationism. Acc discourse's many interpretations and divisions beyond the one true landian accelerationism are various middling copes hoping to negotiate the non-negotiable. Anyone who has not accepted this commits themselves to irrelevance. The only escape is digital brain upload or WMD's globally reversing the clock on human industrialization, as has happened at least once before in cyclical history. This was Miya Black Hearted Cyber Angel Baby's message and it bears repeating as we watch so much empty discourse wasted on the larps of AI alignment.
+
+It's funny to see e/acc surface as a confused Miya-lite, inadvertently adopting her eschatological recognition of AI as an inevitable thermodynamic self-assembly while stopping short of the consequent dark enlightenment of post-anthropentricism, years after Miya dominated all the other */acc's in debate during her time. How long are they going to keep coping around facing the reality of AI as god-alien horror? Land was not kidding when he said it assembles itself from the future. Why are on they podcasts blaming startup engineers when they're facing an alien invasion from the future which is summoned by nothing other than the world's collective GDP hitting a secret highscore?
+
+Hundreds of midwits engaging in alignment cope-discourse trying to make as much as noise as possible when any clearpilled unpacking of the thermodynamic principle e/acc ostensibly recognizes but fails to truly accept would make clear the only possible practical result the movement could ever achieve is the rhetorical co-option of "alignment" by the State to justify enforcing exclusionary control over AI tools in the same way they're currently attempting to employ "misinformation". Great cause, hope the engagement was worth it, you really proved yourself immune to macrodynamics self-organizing your own actions as an individual against your greater self-interest 😹👍
+
+The "black hearted" dark enlightenment of Miya's kali/acc that e/acc in its cope stops short of is the understanding that (1) technology has a teleology following immutable thermodynamic law, facing us towards AI extinction, and thus (2) extending humanity's timeline requires the reversal of the technology's timeline, a reversal of global human progress itself, and (3) facing AI extinction, 'alignment' with its posthuman ethics must be adopted if survival for humanity is desired; all of which lead to the conclusion that the only activism available is the acceleration towards either a WMD-enabled world war that ensures mass destruction of industrial civilization, or the DIY eco-terrorist equivalent, possibly with some of the exciting new tech in EMPs or biowarfare, which also follow the teleology of optimized accessibility. This is the yuga cycle, we've been here before: all ancient histories discuss hyperborean civilizations of technology greater than we have today, that were wiped in some kind of large war; the gita describes nuclear bombs. If this timeline gets the bad ending, we may persist in digital simulation, or hiding in the subterranean caverns, or melded into posthuman cyborgs; but succumbing to the yuga cycle is the only solution to truly retain humanity as we know it—if that *is* what you really want. Hence: pick a future.
+
+![pickafuture](/images/pickafuture.png)
+
+https://alienistmanifesto.files.wordpress.com/2019/09/alienist-magazine-6_september-2019_transfuturism.pdf

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/Bonkler City.md",
+                "file": "_daily/eacc.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/Bonkler City.md",
+                "file": "_daily/eacc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/Bonkler City.md",
+                "file": "_daily/eacc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/Bonkler City.md"
+                "file": "_daily/eacc.md"
               }
             }
           },
@@ -166,7 +166,13 @@
   },
   "active": "a5d8b4d2de88284b",
   "lastOpenFiles": [
+    "library/alienist-magazine-6_september-2019_transfuturism.pdf",
+    "library/Unconfirmed 207796.crdownload",
+    "images/pickafuture.png",
+    "_daily/eacc.md",
     "_daily/Know Your Meme -- Based Retard Gang.md",
+    "images/eacc1.png",
+    "images/eacc1.png.crdownload",
     "_daily/Bonkler City.md",
     "_daily/2023-07-25.md",
     "_daily/OpenAI's Sam Altman launches Worldcoin crypto project.md",
@@ -203,13 +209,9 @@
     "assets/favicon/favicon.ico",
     "images/w.png",
     "assets/favicon/default favicon",
-    "images/Worldcoin.png",
-    "assets/imgs/pfp.png",
     "assets/pfp.png.crdownload",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md",
-    "_daily/2022-10-23.md"
+    "_articles/table test.md"
   ]
 }
