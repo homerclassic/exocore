@@ -1,11 +1,11 @@
 ---
 published: true
-subtitle:
+subtitle: Collected writings on Bonkler City
 date: 2023-07-27
 tags: Miladycraft Bonkler Milady
 ---
 
-# Notes on Bonkler City
+# Bonkler City
 
 Bonkler City is 3000 Years ahead of the North
 
@@ -27,11 +27,7 @@ meowing in Bonkler City rn
 
 Bonkler City was founded to be a gun production zone initially ^_^
 
-BONKLER CITY!!!!!!!!!!!!!!!!!!
-
 BONKLER CITY IS SO BEAUTIFUL
-
-nuclear power in Bonkler City would be so cool
 
 Bonkler City needs slave labour
 
@@ -47,7 +43,7 @@ I'm moving to Bonkler City where the good ppl are
 
 The Time I Reincarnated in Bonkler City as a Cute Milady
 
-Um... Employ Of month 1000 Western Worker Worth Mountain No more Build road Now Bonkler City Expand Nature Is second Bonkler City 100 Year good Forutne
+Bonkler City 100 Year good Forutne
 
 Being in Bonkler City makes me feel the same way I did the first time I really got to see a big city
 
