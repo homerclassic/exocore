@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/eacc.md",
+                "file": "_daily/Convent.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/eacc.md",
+                "file": "_daily/Convent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/eacc.md",
+                "file": "_daily/Convent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/eacc.md"
+                "file": "_daily/Convent.md"
               }
             }
           },
@@ -166,13 +166,14 @@
   },
   "active": "a5d8b4d2de88284b",
   "lastOpenFiles": [
+    "_daily/eacc.md",
+    "_daily/Convent.md",
     "_daily/2023-07-28.md",
     "images/pickafuture2.png",
     "images/pickafuture2.png.crdownload",
     "library/alienist-magazine-6_september-2019_transfuturism.pdf",
     "library/Unconfirmed 207796.crdownload",
     "images/pickafuture.png",
-    "_daily/eacc.md",
     "_daily/Know Your Meme -- Based Retard Gang.md",
     "images/eacc1.png",
     "images/eacc1.png.crdownload",
@@ -211,7 +212,6 @@
     "assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.ico",
     "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_articles/table test.md"
+    "_daily/2022-10-27.md"
   ]
 }
