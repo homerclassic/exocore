@@ -11,4 +11,4 @@ Convent is a hacker house, incubator, and creative activity hub housed in a conv
 
 "Our central mission is to transform the space into a sanctuary that positively affects culture away from the mind-numbing boredom of the current digital-first community standard."
 
-https://stim.city/
+[stim.city](https://stim.city/)
