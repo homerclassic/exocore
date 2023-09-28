@@ -31,7 +31,7 @@ Given Miya’s pro-crypto writings, it seemed a natural progression for Remilia 
 
 ![miya-on-crypto](/images/miya-on-crypto.png)
 
-Throughout 2021, Remilia launched projects like YAYO Coin (now YAYO NFT & [Supplements]([https://yayo.supply/STRENGTH](https://yayo.supply/STRENGTH "https://yayo.supply/STRENGTH"))), a group art show ‘I Long for Network Spirituality’, & Spice DAO. Presumably, as the NFT PFP sector soared, this marked Remilia’s initiation into curating a 10K collection.
+Throughout 2021, Remilia launched projects like YAYO Coin (now YAYO NFT & [Supplements](https://yayo.supply/STRENGTH)), a group art show ‘[I Long for Network Spirituality](https://ilongfornetworkspirituality.net/)’, & Spice DAO. Presumably, as the NFT PFP sector soared, this marked Remilia’s initiation into curating a 10K collection.
 
 While there were several suitable avatars that could’ve served as the basis for a 10K collection, I presume Milady Sonora's avatar was chosen as it inherently resembles a portraiture and most closely aligns with the conventional PFP NFT.
 
@@ -43,5 +43,5 @@ I want to emphasize that Remilia represents a broad collective of people. The cu
 
 ![remilia-hierarchy](/images/remilia-hierarchy.png)
 
-[^1]: Recognize memetic culture cedes no authorship, no credit; art is produced in a lucid state playing handmaiden to collective unconsciousness—and accelerated by the web—Art comes from beyond the self, comes from the network, or God. Claiming it is hubris. [Read more] (https://goldenlight.mirror.xyz/z6ZQoRMiL07IQrOoxgyZC_IMwMWw4sWmigcnI4raLMg)
+[^1]: Recognize memetic culture cedes no authorship, no credit; art is produced in a lucid state playing handmaiden to collective unconsciousness—and accelerated by the web—Art comes from beyond the self, comes from the network, or God. Claiming it is hubris. [Read more](https://goldenlight.mirror.xyz/z6ZQoRMiL07IQrOoxgyZC_IMwMWw4sWmigcnI4raLMg)
 [^2]: Biological identity is not only irrelevant but antithetical to this platform. A de-anonymized forum cannot function as a true marketplace of ideas. Entryists will come knocking at the door with the woke trojan horse, injecting identity politics to correct some unseen discrimination, but there is no race or class online, only freedoms & enroachments on them. [Read more](https://goldenlight.mirror.xyz/9pS7CrQXojNy19zfP8bNW_zKh46VBvpD--IRWei4kas)
