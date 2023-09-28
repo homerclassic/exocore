@@ -11,7 +11,7 @@ The prevalence of misinformed discussions surrounding Remilia compels me to shar
 
 For those unfamiliar, Remilia is an eclectic collective of artists, writers, programmers, designers, founded by Charlotte Fang; it embodies a spectrum of talent and personality and has evolved from initial banter on the timeline to encompass multiple business operations.
 
-Rewinding to early 2020, I first entered the fringe corners of Twitter, where I discovered people who have since gained esteemed recognition, such as BAP, LindyMan, and more relevant to us, Miya Black Hearted Cyber Baby Angel—whom most of you may know as Charlotte.
+Rewinding to early 2020, I first entered the fringe corners of Twitter, where I discovered people who have since gained esteemed recognition, such as BAP, LindyMan, and more relevant to us, Miya Black Hearted Cyber Angel Baby—whom most of you may know as Charlotte.
 
 ![bpd-god-2020](/images/bpd-god-2020.png)
 
