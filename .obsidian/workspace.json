@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "152581e95dac6212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily/Homer on Remilia.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a21ad09066ed3ce",
+  "active": "152581e95dac6212",
   "lastOpenFiles": [
+    "_daily/2023-09-28.md",
     "images/bpd-god-2020.png.~tmp",
     "images/milady-sonora.png",
     "images/milady-sonora.png.crdownload",
@@ -211,7 +225,6 @@
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_articles/Writing with Exocore Syntax.md",
     "images/worldcoin.png.crdownload",
-    "assets/favicon/default",
-    "assets/favicon/New folder"
+    "assets/favicon/default"
   ]
 }
