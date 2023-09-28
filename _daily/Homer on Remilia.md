@@ -39,7 +39,7 @@ While there were several suitable avatars that could’ve served as the basis fo
 
 On 25th September 2021, Milady Maker NFT launched. Known contributors to the design and development of this project include Milady Sonora, Charlotte, FOD, Worm, and Rahab. There may well be other contributors of whom I am not aware. And the rest is ongoing history.
 
-I want to emphasize that Remilia represents a broad collective of people. The current controversy isn’t a discord between Charlotte and four members of Remilia; it is a collective contention involving four members against the entirety of the RemCo
+I want to emphasize that Remilia represents a broad collective of people. The current controversy isn’t a discord between Charlotte and four members of Remilia; it is a collective contention involving four members against the entirety of the RemCo.
 
 ![remilia-hierarchy](/images/remilia-hierarchy.png)
 
