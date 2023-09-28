@@ -13,9 +13,13 @@ For those unfamiliar, Remilia is an eclectic collective of artists, writers, pro
 
 Rewinding to early 2020, I first entered the fringe corners of Twitter, where I discovered people who have since gained esteemed recognition, such as BAP, LindyMan, and more relevant to us, Miya Black Hearted Cyber Baby Angel—whom most of you may know as Charlotte.
 
-Miya’s writings introduced a myriad of transformative ideas. The philosophy underlying Milady—concepts like post-authorship and post-identity—can be attributed to Miya. Discussing the extensive works of Miya/Sunny/Kaliacc would lead to extensive digression.
+![bpd-god-2020](/images/bpd-god-2020.png)
+
+Miya’s writings introduced a myriad of transformative ideas. The philosophy underlying Milady—concepts like post-authorship[^1] and post-identity[^2]—can be attributed to Miya. Discussing the extensive works of Miya/Sunny/Kaliacc would lead to extensive digression.
 
 In the middle of 2020, Miya was banned from Twitter. This led me to meticulously archive all of Miya’s posts for posterity. In response to her absence, several fans and mutuals created Miya clone accounts to keep her presence and ideas alive. That was the start of @HomerClassic.
+
+![miya-pfp](/images/miya-pfp.png)
 
 We began posting under Miya's avatar, employing Miya’s profile picture as a base layer, and infusing our individual traits; her posts served as templates for our new ones. This acted as a proof of concept for the current range of performative postings as Miladys, Remilios, Yayos, etc
 
@@ -25,10 +29,19 @@ By late 2020, my online focus realigned towards crypto. Meanwhile, Sonya (former
 
 Given Miya’s pro-crypto writings, it seemed a natural progression for Remilia to pivot into the space during the crypto bull run. Sonya/Miya took on a new alias as Charlotte Reed, a.k.a. Charlotte Fang, leading Remilia into various DeFi ventures and the NFT space.
 
-Throughout 2021, Remilia launched projects like YAYO Coin (now YAYO NFT & Supplements), a group art show ‘I Long for Network Spirituality’, & Spice DAO. Presumably, as the NFT PFP sector soared, this marked Remilia’s initiation into curating a 10K collection.
+![miya-on-crypto](/images/miya-on-crypto.png)
+
+Throughout 2021, Remilia launched projects like YAYO Coin (now YAYO NFT & [Supplements]([https://yayo.supply/STRENGTH](https://yayo.supply/STRENGTH "https://yayo.supply/STRENGTH"))), a group art show ‘I Long for Network Spirituality’, & Spice DAO. Presumably, as the NFT PFP sector soared, this marked Remilia’s initiation into curating a 10K collection.
 
 While there were several suitable avatars that could’ve served as the basis for a 10K collection, I presume Milady Sonora's avatar was chosen as it inherently resembles a portraiture and most closely aligns with the conventional PFP NFT.
+
+![milady-sonora](/images/milady-sonora.png)
 
 On 25th September 2021, Milady Maker NFT launched. Known contributors to the design and development of this project include Milady Sonora, Charlotte, FOD, Worm, and Rahab. There may well be other contributors of whom I am not aware. And the rest is ongoing history.
 
 I want to emphasize that Remilia represents a broad collective of people. The current controversy isn’t a discord between Charlotte and four members of Remilia; it is a collective contention involving four members against the entirety of the RemCo
+
+![remilia-hierarchy](/images/remilia-hierarchy.png)
+
+[^1]: Recognize memetic culture cedes no authorship, no credit; art is produced in a lucid state playing handmaiden to collective unconsciousness—and accelerated by the web—Art comes from beyond the self, comes from the network, or God. Claiming it is hubris. [Read more] (https://goldenlight.mirror.xyz/z6ZQoRMiL07IQrOoxgyZC_IMwMWw4sWmigcnI4raLMg)
+[^2]: Biological identity is not only irrelevant but antithetical to this platform. A de-anonymized forum cannot function as a true marketplace of ideas. Entryists will come knocking at the door with the woke trojan horse, injecting identity politics to correct some unseen discrimination, but there is no race or class online, only freedoms & enroachments on them. [Read more](https://goldenlight.mirror.xyz/9pS7CrQXojNy19zfP8bNW_zKh46VBvpD--IRWei4kas)
