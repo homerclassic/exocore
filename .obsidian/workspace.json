@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "_daily/Homer on Remilia.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
+                "file": "_daily/Homer on Remilia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
+                "file": "_daily/Homer on Remilia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ring.md"
+                "file": "_daily/Homer on Remilia.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "34891408fac25ee1",
   "lastOpenFiles": [
+    "ring.md",
+    "_daily/Homer on Remilia.md",
     "_daily/2023-08-28.md",
     "images/remilia01_5.png",
     "images/remilia01_4.png",
@@ -203,8 +205,6 @@
     "_articles/Writing with Exocore Syntax.md",
     "_articles/Underpinnings of the Exocore.md",
     "_articles/The Exocore Package.md",
-    "_articles/Set up a Custom Domain.md",
-    "_articles/Exocore Installation Instructions.md",
     "images/worldcoin.png.crdownload",
     "images/worldcoin.png",
     "assets/favicon/default",

@@ -1,0 +1,34 @@
+---
+published: true
+subtitle: 
+date: 2023-09-28
+tags: Remilia Milady
+---
+
+# Homer on Remilia
+
+The prevalence of misinformed discussions surrounding Remilia compels me to share my personal perspective, having observed Remilia’s development from its inception. It is important to clarify that I have never had any insider affiliation with Remilia.
+
+For those unfamiliar, Remilia is an eclectic collective of artists, writers, programmers, designers, founded by Charlotte Fang; it embodies a spectrum of talent and personality and has evolved from initial banter on the timeline to encompass multiple business operations.
+
+Rewinding to early 2020, I first entered the fringe corners of Twitter, where I discovered people who have since gained esteemed recognition, such as BAP, LindyMan, and more relevant to us, Miya Black Hearted Cyber Baby Angel—whom most of you may know as Charlotte.
+
+Miya’s writings introduced a myriad of transformative ideas. The philosophy underlying Milady—concepts like post-authorship and post-identity—can be attributed to Miya. Discussing the extensive works of Miya/Sunny/Kaliacc would lead to extensive digression.
+
+In the middle of 2020, Miya was banned from Twitter. This led me to meticulously archive all of Miya’s posts for posterity. In response to her absence, several fans and mutuals created Miya clone accounts to keep her presence and ideas alive. That was the start of @HomerClassic.
+
+We began posting under Miya's avatar, employing Miya’s profile picture as a base layer, and infusing our individual traits; her posts served as templates for our new ones. This acted as a proof of concept for the current range of performative postings as Miladys, Remilios, Yayos, etc
+
+At this point, I’m not certain if ‘Remilia’ had been conceptualized, but I was acquainted with some individuals who are or were associated with Remilia, including ccccaa, Worm, Onno, Don, FOD, Mara, Milady Sonora, llyena, and Yojimbo, among others.
+
+By late 2020, my online focus realigned towards crypto. Meanwhile, Sonya (formerly Miya) was created, leading new projects of performative posting on various platforms. This was most relevant to the 2022 cancellation.
+
+Given Miya’s pro-crypto writings, it seemed a natural progression for Remilia to pivot into the space during the crypto bull run. Sonya/Miya took on a new alias as Charlotte Reed, a.k.a. Charlotte Fang, leading Remilia into various DeFi ventures and the NFT space.
+
+Throughout 2021, Remilia launched projects like YAYO Coin (now YAYO NFT & Supplements), a group art show ‘I Long for Network Spirituality’, & Spice DAO. Presumably, as the NFT PFP sector soared, this marked Remilia’s initiation into curating a 10K collection.
+
+While there were several suitable avatars that could’ve served as the basis for a 10K collection, I presume Milady Sonora's avatar was chosen as it inherently resembles a portraiture and most closely aligns with the conventional PFP NFT.
+
+On 25th September 2021, Milady Maker NFT launched. Known contributors to the design and development of this project include Milady Sonora, Charlotte, FOD, Worm, and Rahab. There may well be other contributors of whom I am not aware. And the rest is ongoing history.
+
+I want to emphasize that Remilia represents a broad collective of people. The current controversy isn’t a discord between Charlotte and four members of Remilia; it is a collective contention involving four members against the entirety of the RemCo
