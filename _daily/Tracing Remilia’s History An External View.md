@@ -27,7 +27,7 @@ At this point, I’m not certain if ‘Remilia’ had been conceptualized, but I
 
 By late 2020, my online focus realigned towards crypto. Meanwhile, Sonya (formerly Miya) was created, leading new projects of performative posting on various platforms. This was most relevant to the [2022 cancellation](https://www.coindesk.com/markets/2022/05/24/milady-nft-prices-tumble-after-creator-doxxes-self-as-person-behind-controversial-miya/).
 
-Given Miya’s pro-crypto writings, it seemed a natural progression for Remilia to pivot into the space during the crypto bull run. Sonya/Miya took on a new alias as Charlotte Reed, a.k.a. Charlotte Fang, leading Remilia into various DeFi ventures and the NFT space.
+In early 2021, from my viewpoint, Remilia seemed to transition from a [groupchat](https://goldenlight.mirror.xyz/ZIi54f1Yh_Zq7nb-OvRC6cpJdAAl_n_HmqFYd6odCrU) to a more formalized organization. Given Miya’s pro-crypto writings, it seemed a logical progression for Remilia to pivot into the crypto space during the crypto bull run. Subsequently, Sonya/Miya adopted a new alias, Charlotte Reed, a.k.a. Charlotte Fang, guiding Remilia into various DeFi ventures and the NFT space.
 
 ![miya-on-crypto](/images/miya-on-crypto.png)
 
