@@ -11,7 +11,7 @@ The prevalence of misinformed discussions surrounding Remilia compels me to shar
 
 For those unfamiliar, Remilia is an eclectic collective of artists, writers, programmers, designers, founded by Charlotte Fang; it embodies a spectrum of talent and personality and has evolved from initial banter on the timeline to encompass multiple business operations.
 
-Rewinding to early 2020, I first entered the fringe corners of Twitter, where I discovered people who have since gained esteemed recognition, such as BAP, LindyMan, and more relevant to us, Miya Black Hearted Cyber Angel Baby—whom most of you may know as Charlotte.
+Rewinding to early 2020, I first entered the fringe corners of Twitter, where I discovered people who have since gained esteemed recognition, such as [BAP](https://twitter.com/bronzeagemantis), [LindyMan](https://twitter.com/PaulSkallas, and more relevant to us, [Miya Black Hearted Cyber Angel Baby](https://kaliacc.org/miya/archive/archive.html#/tweets/tweets)—whom most of you may know as Charlotte.
 
 ![bpd-god-2020](/images/bpd-god-2020.png)
 
@@ -31,9 +31,9 @@ Given Miya’s pro-crypto writings, it seemed a natural progression for Remilia 
 
 ![miya-on-crypto](/images/miya-on-crypto.png)
 
-Throughout 2021, Remilia launched projects like YAYO Coin[^3] (now YAYO NFT & [Supplements](https://yayo.supply/STRENGTH)), a group art show ‘I Long for Network Spirituality’[^4], & Spice DAO[^5]. Presumably, as the PFP NFT[^6] sector soared, this marked Remilia’s initiation into curating a 10K collection.
+Throughout 2021, Remilia launched projects like YAYO Coin[^3] (now YAYO NFT & [Supplements](https://yayo.supply/STRENGTH)), a group art show ‘I Long for Network Spirituality’[^4], & Spice DAO[^5]. Presumably, as the PFP NFT[^6] sector soared, this marked Remilia’s initiation into curating a 10,000-piece collection.
 
-While there were several suitable avatars that could’ve served as the basis for a 10K collection, I presume Milady Sonora's avatar was chosen as it inherently resembles a portraiture and most closely aligns with the conventional PFP NFT.
+Numerous avatars were apt candidates to serve as the foundation for a 10K collection. I assume that Milady Sonora's avatar was selected because of its intrinsic resemblance to portraiture, showcasing a distinct physiognomy that aligns more closely with the conventional styles prevalent in PFP NFTs.
 
 ![milady-sonora](/images/milady-sonora.png)
 
