@@ -5,7 +5,7 @@ date: 2023-09-28
 tags: Remilia Milady
 ---
 
-# Homer on Remilia
+# Remilia
 
 The prevalence of misinformed discussions surrounding Remilia compels me to share my personal perspective, having observed Remilia’s development from its inception. It is important to clarify that I have never had any insider affiliation with Remilia.
 
